@@ -10,4 +10,5 @@ spring-security-oauth-authorization-code-flow | [Front-End App with Spring Secur
 spring-security-oauth-jws-jwk | [JWS + JWK in a Spring Security OAuth2 Application](https://www.baeldung.com/spring-security-oauth2-jws-jwk)
 spring-security-oauth-remember-me | [OAuth2 Remember Me with Refresh Token](http://www.baeldung.com/spring-security-oauth2-remember-me)
 spring-security-oauth-revoke-tokens | [Spring Security OAuth2 – Simple Token Revocation](http://www.baeldung.com/spring-security-oauth-revoke-tokens)
-spring-security-oauth-api-testing | [Testing an OAuth Secured API with Spring MVC](http://www.baeldung.com/oauth-api-testing-with-spring-mvc)
+spring-security-oauth-api-testing | [Testing an OAuth Secured API with Spring MVC](http://www.baeldung.com/oauth-api-testing-with-spring-mvc)spring-security-oauth-dynamic-client-registration
+spring-security-oauth-dynamic-client-registration | [OAuth2.0 and Dynamic Client Registration](http://www.baeldung.com/spring-security-oauth-dynamic-client-registration)

@@ -58,5 +58,6 @@
   <module>spring-security-oauth-verify-claims</module>
   <module>spring-security-oauth-revoke-tokens</module>
   <module>spring-security-oauth-api-testing</module>
+  <module>spring-security-oauth-dynamic-client-registration</module>
  </modules>
 </project>
