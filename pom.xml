@@ -56,5 +56,7 @@
   <module>spring-security-oauth-remember-me</module>
   <module>spring-security-oauth-jws-jwk</module>
   <module>spring-security-oauth-verify-claims</module>
+  <module>spring-security-oauth-revoke-tokens</module>
+  <module>spring-security-oauth-api-testing</module>
  </modules>
 </project>
