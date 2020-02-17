@@ -19,6 +19,7 @@
  <properties>
   <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
   <spring-security-oauth2-autoconfigure.version>2.2.4.RELEASE</spring-security-oauth2-autoconfigure.version>
+  <commons-io.version>2.4</commons-io.version>
  </properties>
 
  <dependencies>
@@ -52,5 +53,8 @@
   <module>spring-security-oauth-refresh-token</module>
   <module>spring-security-oauth-jwt-store</module>
   <module>spring-security-oauth-authorization-code-flow</module>
+  <module>spring-security-oauth-remember-me</module>
+  <module>spring-security-oauth-jws-jwk</module>
+  <module>spring-security-oauth-verify-claims</module>
  </modules>
 </project>

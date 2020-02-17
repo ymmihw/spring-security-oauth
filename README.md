@@ -8,3 +8,4 @@ spring-security-oauth-refresh-token | [OAuth2 for a Spring REST API – Handle t
 spring-security-oauth-verify-claims | [New in Spring Security OAuth2 – Verify Claims](http://www.baeldung.com/spring-security-oauth-2-verify-claims)
 spring-security-oauth-authorization-code-flow | [Front-End App with Spring Security OAuth – Authorization Code Flow](https://www.baeldung.com/spring-security-oauth-authorization-code-flow)
 spring-security-oauth-jws-jwk | [JWS + JWK in a Spring Security OAuth2 Application](https://www.baeldung.com/spring-security-oauth2-jws-jwk)
+spring-security-oauth-remember-me | [OAuth2 Remember Me with Refresh Token](http://www.baeldung.com/spring-security-oauth2-remember-me)
