@@ -59,5 +59,6 @@
   <module>spring-security-oauth-revoke-tokens</module>
   <module>spring-security-oauth-api-testing</module>
   <module>spring-security-oauth-dynamic-client-registration</module>
+  <module>spring-security-oauth-logout</module>
  </modules>
 </project>

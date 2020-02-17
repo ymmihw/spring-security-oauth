@@ -1,0 +1,14 @@
+zuul:
+  routes:
+    oauth:
+      path: /oauth/**
+      url: http://localhost:8081/spring-security-oauth-server/oauth
+    resource:
+      path: /foos/**
+      url: http://localhost:8082/spring-security-oauth-resource/foos/
+    logout:
+      path: /logout/**
+      url: http://localhost:8081/spring-security-oauth-server/logout/
+  Servlet30WrapperFilter:
+    pre:
+      disable: true

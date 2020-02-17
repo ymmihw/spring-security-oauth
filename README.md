@@ -12,3 +12,4 @@ spring-security-oauth-remember-me | [OAuth2 Remember Me with Refresh Token](http
 spring-security-oauth-revoke-tokens | [Spring Security OAuth2 – Simple Token Revocation](http://www.baeldung.com/spring-security-oauth-revoke-tokens)
 spring-security-oauth-api-testing | [Testing an OAuth Secured API with Spring MVC](http://www.baeldung.com/oauth-api-testing-with-spring-mvc)spring-security-oauth-dynamic-client-registration
 spring-security-oauth-dynamic-client-registration | [OAuth2.0 and Dynamic Client Registration](http://www.baeldung.com/spring-security-oauth-dynamic-client-registration)
+spring-security-oauth-logout | [Logout in a OAuth Secured Application](http://www.baeldung.com/logout-spring-security-oauth)
