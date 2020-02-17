@@ -9,7 +9,7 @@
  </parent>
  <artifactId>resource-server</artifactId>
  <name>resource-server</name>
- <version>0.0.2-SNAPSHOT</version>
+ <version>0.0.3-SNAPSHOT</version>
  <url>http://maven.apache.org</url>
  <properties>
   <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>

@@ -9,7 +9,7 @@
  </parent>
  <artifactId>authorization-server</artifactId>
  <name>authorization-server</name>
- <version>0.0.2-SNAPSHOT</version>
+ <version>0.0.3-SNAPSHOT</version>
  <url>http://maven.apache.org</url>
  <dependencies>
   <dependency>
