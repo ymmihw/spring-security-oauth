@@ -49,6 +49,7 @@
  </dependencies>
  <modules>
   <module>spring-security-oauth-angularjs</module>
+  <module>spring-security-oauth-jwt-store</module>
   <module>spring-security-oauth-authorization-code-flow</module>
  </modules>
 </project>
