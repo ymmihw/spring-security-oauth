@@ -26,7 +26,7 @@
     "ng2-cookies": ">=1.0.12",
     "rxjs": "^6.1.0",
     "rxjs-compat": "^6.0.0-tactical-rc.1",
-    "url-parse": "^1.4.3",
+    "url-parse": "^1.5.9",
     "zone.js": "^0.8.4"
   },
   "devDependencies": {
